@@ -2788,7 +2788,7 @@ checksum = "6ce2be8dc25455e1f91df71bfa12ad37d7af1092ae736f3a6cd0e37bc7810596"
 [[package]]
 name = "stellereum"
 version = "0.1.0"
-source = "git+https://github.com/stellereum/stellereum?branch=main#6d1c711687efdecb39199ea5dfd22ee16c20ee1e"
+source = "git+https://github.com/stellereum/stellereum?branch=main#49227d0b0011dbc27b572b91fe140965a32fad47"
 dependencies = [
  "aead",
  "anyhow",
